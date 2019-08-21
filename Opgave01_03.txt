@@ -1,0 +1,6 @@
+Lav en klasse ”MyClass” som tager et integer argument i constructoren
+og bruger dette argument i sin ToString() metode.
+Det er nødvendigt at override ToString()
+(Keyword override er nødvendigt.Se evt.her:
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/override)
+Du kan kalde din klasse hvad som helst men min hedder ”MyClass” ….

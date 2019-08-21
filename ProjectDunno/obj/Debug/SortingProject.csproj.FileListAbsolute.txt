@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\bin\Debug\ProjectDunno.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\bin\Debug\ProjectDunno.exe
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\bin\Debug\ProjectDunno.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\obj\Debug\SortingProject.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\obj\Debug\SortingProject.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\obj\Debug\ProjectDunno.exe
+C:\Program Files (x86)\Eclipse\Github\S4\ProjectDunno\obj\Debug\ProjectDunno.pdb

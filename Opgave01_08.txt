@@ -1,0 +1,17 @@
+Exceptions
+Create a new Class. Implement the method:
+private void MyMethodWithError(int num = 0)
+
+MyMethodWithError must throw an exception.
+Call MyMethodWithError from the new method:
+public void MyNormalMethod(int num = 0)
+
+MyNormalMethod must catch the exception from MyMethodWithError 
+and contain a “finally” statement.
+
+Make sure you write a lot to stdout (This is the normal output to the console), 
+so you see what is going on.
+
+A simple and fast reference for exceptions is found here:
+https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch-finallyor 
+https://www.tutorialspoint.com/Try-Catch-Finally-in-Chash

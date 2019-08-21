@@ -1,0 +1,10 @@
+•	Find ud af hvordan man definerer lister i C#. 
+	Vink: Se her: https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=netframework-4.7.2
+
+•	Skriv en klasse MySortingClass som indeholder en liste af tal 
+	(tallene kommer ind i konstructoren eller laves i konstructoren som tilfældige tal. Se Exercise 7). 
+	Implementer en metode Sort() på denne klasse, som sorterer listen. 
+	Implementer som du ønsker men bubble-sort er fint. Men du SKAL skrive den selv for at øve C#.
+
+•	Implementer din sortering vha. et af de værktøjer C# stiller til rådighed. 
+	Led efter Sort() i ovenstående link. List har en Sort metode.

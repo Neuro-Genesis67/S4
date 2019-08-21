@@ -1,0 +1,12 @@
+•	I VS solution explorer: lav et nyt ClassLibrary project (kald det evt ClassLibrary1). 
+I dette project skal defineres et interface IMyExternalClass og en klasse MyExternalClass som implementerer interfacet IMyExternalClass. 
+Interfacet IMyExternalClass skal (mindst) have metoden
+
+string GetMeAsText();
+•	Din nye klasse MyExternalClass skal bruges fra dit primære projekt, 
+hvor du laver et eksempel på en nedarvning fra MyExternalClass. 
+Kald evt. nedarvningen MyExternalClassEx.  
+Du skal finde ud af at indsætte referencer og en ”using statement”. 
+
+Referencer indsættes ved at højre klikke på References i dit hovedprojekt og vælg ”Add Reference”, 
+vælg ”Projects” og marker ClassLibrary1 projektet.

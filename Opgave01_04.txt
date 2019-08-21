@@ -1,0 +1,12 @@
+Læs denne side om properties overfladisk:
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/properties
+(Det er ikke nødvendigt at forstå ALLE detaljer)
+Giv din MyClass klasse en property som kan sætte den interne variabel(den fra konstructoren…)
+Din kode skal kunne bruges således:
+
+var mc = new MyClass(56);
+mc.Arg = 65;
+Console.WriteLine(mc);
+
+Output skal minde om dette
+MyArg set to 65

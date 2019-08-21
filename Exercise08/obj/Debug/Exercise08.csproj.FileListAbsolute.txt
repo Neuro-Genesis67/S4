@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\bin\Debug\Exercise08.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\bin\Debug\Exercise08.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\bin\Debug\Exercise08.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\obj\Debug\Exercise08.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\obj\Debug\Exercise08.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\obj\Debug\Exercise08.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Exercise08\obj\Debug\Exercise08.pdb

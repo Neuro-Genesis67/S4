@@ -1,0 +1,14 @@
+Random numbersGenerate a list of random numbers. 
+Print them to the console. 
+Information about random numbers can be found here:
+https://docs.microsoft.com/en-us/dotnet/api/system.random?view=netframework-4.7.2Often 
+a simple guide can be found on stackoverflow.com. 
+
+I usually get there from a Google search. 
+If there is a solution from stackoverflow it is often good and simple.
+https://stackoverflow.com/questions/2706500/how-do-i-generate-a-random-int-number-in-cYou 
+need the method Next NextDouble on your Random object. 
+What is the difference?? 
+
+--Random = System.Random
+--Random.NextDouble(); = et double tal mellem 0.0 og 1.0
