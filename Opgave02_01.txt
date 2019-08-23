@@ -1,0 +1,6 @@
+Write a class Person with Name, Age and Weight properties. 
+Override the ToString method so you can print person objects to console. Output must take up only one line in the console!
+
+Tabulator is the traditional way to do this but you can also use String.Format
+Ex: https://stackoverflow.com/questions/2978311/format-a-string-into-columns
+Or: (Too long) https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netframework-4.7.2

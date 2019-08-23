@@ -1,0 +1,7 @@
+Running from Console
+Run your program from Exercise 2 from the console.
+Why is this method important?
+
+cd C:\Program Files (x86)\Eclipse\Github\S4\E2\bin\Debug
+E2 | eller | E2.exe
+-> Hello world

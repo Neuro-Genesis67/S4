@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\obj\Debug\Split.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\bin\Debug\String.Split.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\bin\Debug\String.Split.exe
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\bin\Debug\String.Split.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\obj\Debug\Split.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\obj\Debug\String.Split.exe
+C:\Program Files (x86)\Eclipse\Github\S4\String.Split\obj\Debug\String.Split.pdb

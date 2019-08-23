@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\bin\Debug\SortingWithComparers.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\bin\Debug\SortingWithComparers.exe
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\bin\Debug\SortingWithComparers.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\obj\Debug\SortingWithComparers.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\obj\Debug\SortingWithComparers.exe
+C:\Program Files (x86)\Eclipse\Github\S4\SortingWithComparers\obj\Debug\SortingWithComparers.pdb

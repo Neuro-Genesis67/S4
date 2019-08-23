@@ -1,0 +1,16 @@
+Implement a static method on your Person class
+
+public static List<Person> ReadCSVFile(string filename)
+
+that reads a file containing lines of persons in the format "Saul;60;63" shown above.
+This method returns a list of Person objects from a CSV file.
+(I gave you a file called data.csv, you should use)
+
+Reading files one line at a time will help you
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/file-system/how-to-read-a-text-file-one-line-at-a-time
+
+Now you must be able to write code that looks like this:
+
+string filename = @"C:\somewhere\else\or\whereever\data.csv";
+var people = Person.ReadCSVFile(filename);
+Console.WriteLine("Number of people in data file : " + people.Count);

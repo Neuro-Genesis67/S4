@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\bin\Debug\Tabulator.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\bin\Debug\Tabulator.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\bin\Debug\Tabulator.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\obj\Debug\Tabulator.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\obj\Debug\Tabulator.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\obj\Debug\Tabulator.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Tabulator\obj\Debug\Tabulator.pdb

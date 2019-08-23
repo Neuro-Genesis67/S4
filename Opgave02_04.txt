@@ -1,0 +1,14 @@
+There are different ways to sort lists. One of them is to implement the interface IComparer<T> or the IComparer Interface
+https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.icomparer-1?view=netframework-4.7.2
+or
+https://docs.microsoft.com/en-us/dotnet/api/system.collections.icomparer.compare?view=netframework-4.7.2
+
+Implement three classes
+public class SortByAge : IComparer<Person>
+public class SortByWeight : IComparer<Person>
+public class SortByName : IComparer<Person>
+so you can sort your list of Persons by Age, Weight, and Name.
+
+Now you must be able to write
+people.Sort(new SortByWeight());
+and people are sorted by weight.

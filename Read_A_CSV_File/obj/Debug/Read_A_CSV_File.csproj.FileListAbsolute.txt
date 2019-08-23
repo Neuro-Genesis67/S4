@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\bin\Debug\Read_A_CSV_File.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\bin\Debug\Read_A_CSV_File.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\bin\Debug\Read_A_CSV_File.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\obj\Debug\Read_A_CSV_File.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\obj\Debug\Read_A_CSV_File.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\obj\Debug\Read_A_CSV_File.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Read_A_CSV_File\obj\Debug\Read_A_CSV_File.pdb

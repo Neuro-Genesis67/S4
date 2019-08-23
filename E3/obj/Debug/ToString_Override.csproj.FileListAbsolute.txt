@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\E3\bin\Debug\E3.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\E3\bin\Debug\E3.exe
+C:\Program Files (x86)\Eclipse\Github\S4\E3\bin\Debug\E3.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\E3\obj\Debug\ToString_Override.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\E3\obj\Debug\ToString_Override.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\E3\obj\Debug\E3.exe
+C:\Program Files (x86)\Eclipse\Github\S4\E3\obj\Debug\E3.pdb

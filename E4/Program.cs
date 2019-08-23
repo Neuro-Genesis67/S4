@@ -18,7 +18,7 @@ namespace E4
             return "I have " + this.apes + " apes.";
         }
 
-        public int Accessor
+        public int Apes
         {
             get { return this.apes;  }
             set { this.apes = value; }
@@ -27,9 +27,9 @@ namespace E4
         {
             var mc = new MyClass(2);
             Console.WriteLine(mc);
-            mc.Accessor += 10;
+            mc.Apes += 10;
             Console.WriteLine(mc.ToString());
-            mc.Accessor = 3;
+            mc.Apes = 3;
             Console.WriteLine(mc);
             Console.ReadLine();
         }

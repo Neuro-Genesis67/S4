@@ -1,0 +1,31 @@
+Explain the behavior of this call
+people.Sort((p1,p2) => p1.Age.CompareTo(p2.Age));
+(Sort method can take a lambda as argument)
+
+Explain why
+people.Sort(new SortByAge());
+Is or is not a better way to do it. Find pros and cons.
+
+Write examples of all your sorting in Exercise D4 using Lambdas. 
+Find the 10 oldest people, and the 10 youngest. 
+There is a Reverse method on the array class.
+
+		// Explain the behavior of this call
+        // people.Sort((p1, p2) => p1.Age.CompareTo(p2.Age));
+        // (Sort method can take a lambda as argument)
+            
+            //  (Anything in my answer here should be regarded as wildly inaccurate guesswork)
+            // - Sort is a method that can be run on lists and arrays. It uses an interface IComparable<T> where T is the type.
+            // - The lambda expression takes two arguments: (p1, p2) => and the arguments are then handled in the code following the arrow '=>'. here the CompareTo method is run. 
+
+        //Explain why
+        //people.Sort(new SortByAge());
+        //Is or is not a better way to do it.Find pros and cons.
+
+            // Pros: 
+            // -Looks nice and is (somewhat) easily readable.   
+            // -Highly customizable 
+            //
+            // Cons: 
+            // -You have to create the 'SortByAge' class to use it.
+            // -In some cases 'people.Sort((p1, p2) => p1.Age.CompareTo(p2.Age));' is fairly readable
