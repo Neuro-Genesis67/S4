@@ -1,0 +1,10 @@
+a)
+Skriv en rekursiv metode public static int Power(int n, int p) 
+der beregner n opløftet i p hvor p >=0. 
+Den rekursive definition er givet ved: 
+Termineringsregel: 	n^0=1		
+Rekurrensregel:	n^p= n^(p-1)*n
+
+b)
+Lav en extension metode, så man for eksempel kan skrive 
+2.Power(4) og få resultatet 16

@@ -80,8 +80,8 @@ namespace LambdaSort_Or_InterfaceSort {
             //peopleLambdaWeight.Sort((p1, p2) => p1.Weight.CompareTo(p2.Weight));
             //Person.PrintList(peopleLambdaWeight);
 
-            //peopleLambdaAge.Sort((p1, p2) => p1.Age.CompareTo(p2.Age));
-            //Person.Print10Youngest10Oldest(peopleLambdaAge);
+            peopleLambdaAge.Sort((p1, p2) => p1.Age.CompareTo(p2.Age));
+            Person.Print10Youngest10Oldest(peopleLambdaAge);
 
             Console.ReadKey();
         }

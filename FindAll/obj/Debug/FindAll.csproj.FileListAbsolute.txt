@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\bin\Debug\FindAll.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\bin\Debug\FindAll.exe
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\bin\Debug\FindAll.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\obj\Debug\FindAll.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\obj\Debug\FindAll.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\obj\Debug\FindAll.exe
+C:\Program Files (x86)\Eclipse\Github\S4\FindAll\obj\Debug\FindAll.pdb

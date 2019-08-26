@@ -1,0 +1,9 @@
+a)
+Et palindrom er en tekststreng der læses ens forfra og bagfra som fx ”ABBA” og ”radar”. 
+Skriv en statisk rekursiv metode 
+public static bool IsPalindrom(String tekst)
+der returnerer true hvis teksten er et palindrom, og false ellers. 
+I løsningen skal du anvende hjælpemetoder, så der ikke skal laves substrings af String under-vejs
+
+b)
+Lav en extension metode så man for eksempel kan skrive ”ABBA”.IsPalindrome() og få true tilbage.

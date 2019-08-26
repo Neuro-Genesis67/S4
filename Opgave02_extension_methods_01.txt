@@ -1,0 +1,9 @@
+a)
+Skriv en rekursiv metode public static int factorial(int n) der beregner n!, n>=0.
+Den rekursive definition er givet ved.
+
+Termineringsregel:	0! = 1
+Rekurrensregel:	n! = n * (n -1)!, n > 0
+
+b)
+Brug din factorial metode til at lave en extension metode, så man kan skrive 4.Factorial() og få resultatet 24. 

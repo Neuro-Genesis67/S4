@@ -19,11 +19,11 @@ namespace String.Split
             Weight = parsedWeight;
         }
         public override string ToString() {
-            return string.Format("|Name: {0}| |Age: {1}| |Weight: {2}kg.|",
+            return string.Format("{0, -8}:  {1, -1} years,  {2} kg",
                               this.Name,  this.Age,  this.Weight);
         }
         static void Main(string[] args) {
-            var tom = new Person("Tom;28;62,5");
+            var tom = new Person("Saul;60;63");
             Console.WriteLine(tom);
             Console.ReadKey(); 
         }

@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\bin\Debug\Factorial.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\bin\Debug\Factorial.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\bin\Debug\Factorial.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\obj\Debug\Factorial.exe
+C:\Program Files (x86)\Eclipse\Github\S4\Factorial\obj\Debug\Factorial.pdb

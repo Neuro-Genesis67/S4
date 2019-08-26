@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Program Files (x86)\Eclipse\Github\S4\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
