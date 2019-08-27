@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\obj\Debug\DeliciousDelegations.csprojAssemblyReference.cache
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\obj\Debug\DeliciousDelegations.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\bin\Debug\DeliciousDelegations.exe.config
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\bin\Debug\DeliciousDelegations.exe
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\bin\Debug\DeliciousDelegations.pdb
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\obj\Debug\DeliciousDelegations.exe
+C:\Program Files (x86)\Eclipse\Github\S4\DeliciousDelegations\obj\Debug\DeliciousDelegations.pdb
